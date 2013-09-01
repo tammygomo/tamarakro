@@ -1,0 +1,46 @@
+body
+{
+	background: url("../imagas/bg.png");
+	font-family: arial;
+	line-height: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+#header
+{
+	margin: 0 auto;
+	width: 900px;
+}
+
+#main
+{
+	width: 880px;
+	height: 580px;
+	border: 1px solid #e1e1e1;
+	margin: 0 auto;
+	color: #464646;
+	padding-left: 15px;
+	background: url("../imagas/tammy3.png") no-repeat;
+}
+	
+#footer
+{
+	width: 700px;
+	margin: 0 auto;
+	font-size: 0.8em;
+}			
+
+#footer a
+{
+	text-decoration: none;
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+}
+
+#footer a:hover
+{
+	text-decoration: underline;
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+}
