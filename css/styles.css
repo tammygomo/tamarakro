@@ -1,6 +1,6 @@
 body
 {
-	background: url("../imagas/bg.png");
+	background: url("../images/bg.png");
 	font-family: arial;
 	line-height: 25px;
 	margin: 0;
@@ -21,7 +21,7 @@ body
 	margin: 0 auto;
 	color: #464646;
 	padding-left: 15px;
-	background: url("../imagas/tammy3.png") no-repeat;
+	background: url("../images/tammy3.png") no-repeat;
 }
 	
 #footer

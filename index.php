@@ -5,13 +5,13 @@
 	</head>
 	
 	<body>
-		<div style="background: url('imagas/line.png'); height: 2px;">
+		<div style="background: url('images/line.png'); height: 2px;">
 			.
 		</div>
 		
 		<div id="header">
 			<p>
-				<img src="imagas/logo.png" />			
+				<img src="images/logo.png" />			
 			</p>
 		</div>
 			
