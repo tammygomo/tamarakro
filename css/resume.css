@@ -1,0 +1,44 @@
+body
+{
+	background: url("../images/bg.png");
+	font-family: arial;
+	line-height: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+#content
+{ 
+	width: 700px; 
+	margin: 5px auto; 
+	border: 1px solid #e1e1e1; 
+	padding: 10px;
+}
+
+h2
+{
+	prenuptial agreement
+	We might be AGE-mates but not GRACE-mates , what rocks my boat might just sink ur ship
+	Jeremiah chaptre 29 7 to 9
+}
+
+#footer
+{
+	width: 700px;
+	margin: 0 auto;
+	font-size: 0.8em;
+}			
+
+#footer a
+{
+	text-decoration: none;
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+}
+
+#footer a:hover
+{
+	text-decoration: underline;
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+}

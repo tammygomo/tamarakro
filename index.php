@@ -14,7 +14,10 @@
 				<img src="images/logo.png" />			
 			</p>
 		</div>
-			
+		
+		<div style="width: 300px; height: 580px;">
+			<img src="images/tam2.png" />
+		</div>
 			
 		<div id="main">
 		<h2>
@@ -44,10 +47,11 @@
 		</div>
 		<div id="footer">
 		<p>
-			 <a href="#" style="color: #085a80"> HOME</a> &nbsp; &nbsp; <a href="#" style="color: #ef1100"> RESUME/CV</a> &nbsp; &nbsp; <a href="#" style="color: #009122"> PHOTOS</a> &nbsp; &nbsp; <a href="#" style="color: #e96e0a"> BLOG</a> &nbsp; &nbsp; <a href="#" style="color: #8c0774"> CONTACT ME</a>
+			 <a href="index.php" style="color: #085a80"> HOME</a> &nbsp; &nbsp; <a href="resume.php" style="color: #ef1100"> RESUME/CV</a> &nbsp; &nbsp; <a href="photos.php" style="color: #009122"> PHOTOS</a> &nbsp; &nbsp; <a href="blog.php" style="color: #e96e0a"> BLOG</a> &nbsp; &nbsp; <a href="contactme.php" style="color: #8c0774"> CONTACT ME</a>
 
 		</p>
 		
+		<br />
 			<p> &copy; 2013, Tamarakro Gomeromo </p>
 		</div>
 		
